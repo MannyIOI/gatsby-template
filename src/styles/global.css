@@ -1,0 +1,12 @@
+:root {
+    --bg-color: #161e28;
+    --accent-color: #13c2d4;
+}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    overflow-y: auto;
+}
+  
