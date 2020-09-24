@@ -7,7 +7,8 @@ export const Footer = () => {
             <footer style={{
                 marginTop: `2rem`
                 }}>
-                © {new Date().getFullYear()}, Addis Ababa, Ethiopia
+                {/* © {new Date().getFullYear()}, Addis Ababa, Ethiopia */}
+                <p>Footer</p>
             </footer>
         </FooterContainer>
     )

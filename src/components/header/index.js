@@ -4,14 +4,7 @@ import { HeaderContainer } from './styles'
 const Header = () => {
   return (
     <HeaderContainer>
-      <div>
-        <p>Logo</p>
-      </div>
-
-      <div>
-        <p>Land of Origins</p>
-        <h1>Discover Ethiopia with our Guide</h1>
-      </div>
+      <h1>Header</h1>
     </HeaderContainer>
   )
 }

@@ -2,8 +2,8 @@ import styled from 'styled-components'
 import headerImage from '../../images/header/Header.png'
 
 export const HeaderContainer = styled.div`
-    height: 100vh;
-    background: url(${headerImage});
+    height: 10vh;
+    background: var(--accent-color);
     background-repeat: no-repeat;
     background-size: 100%;
 
