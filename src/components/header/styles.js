@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import headerImage from '../../images/header/Header.png'
 
 export const HeaderContainer = styled.div`
     height: 10vh;
